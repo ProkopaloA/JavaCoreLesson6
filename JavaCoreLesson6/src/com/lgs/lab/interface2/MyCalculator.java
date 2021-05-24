@@ -32,7 +32,7 @@ public class MyCalculator implements com.lgs.lab.interface1.Numerable {
 	@Override
 	public String toString() {
 		return "Результат операцій над числами " + a + " та " + b + " : додавання = " + plus() + ", віднімання = " + minus() + ", множення = "
-				+ multiply() + ", ділення = " + devide();
+				+ multiply() + ", ділення = " + devide() + "!";
 	}
 	
 	
